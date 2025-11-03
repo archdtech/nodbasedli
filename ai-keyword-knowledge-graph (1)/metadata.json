@@ -1,0 +1,5 @@
+
+{
+  "name": "AI Keyword Knowledge Graph",
+  "description": "Generate and visualize a dynamic, interactive knowledge graph from a list of weighted keywords. The application uses the Gemini API to find semantic relationships and D3.js to render the beautiful, force-directed graph."
+}
